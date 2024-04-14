@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### Hi there 👋 
+<!--Hi there 👋 -->
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24355%26project%3D%26in=0)](https://codetime.dev)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Barca0412.Barca0412)
 ![decription](https://img.shields.io/badge/Language-Python-green)
