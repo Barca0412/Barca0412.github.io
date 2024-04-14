@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* A private investment fund:: Quantitative Researcher
+* A private investment fund: Quantitative Researcher
   * Factor Mining.
 
 * A private investment fund: FoF Researcher
