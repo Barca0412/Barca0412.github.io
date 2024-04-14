@@ -5,12 +5,12 @@ main:
 
   - title: "Essays"
     url: /talks/    
-        
-  - title: "Photos"
-    url: /year-archive/
-    
+
   - title: "Experience"
     url: /cv/
     
   - title: "Contact"
     url: /markdown/
+
+#  - title: "Photos"
+#    url: /year-archive/
