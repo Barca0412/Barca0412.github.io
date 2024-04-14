@@ -21,7 +21,7 @@ repository               : "Barca0412/Barca0412.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GuohaoQi.png"
   name             : "Guohao Qi"
   pronouns         : # example: "she/her"  
   bio              : "Student, College of Finance and Statistics"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Guohao-Qi"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,6 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  wechat           : "qgh985695077"
 
 
 # Site Settings
