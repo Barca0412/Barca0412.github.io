@@ -17,7 +17,7 @@ redirect_from:
 ![decription](https://img.shields.io/badge/Language-SAS-white)
 
 
-I'm Guohao Qi, an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). 
+I'm Guohao Qi(齐国皓), an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). 
 
 I'm interested in both **Fintech**(including Cryptocurrency market) and **Empirical Asset Pricing** in academia📋, including stock anomalies and cross-sectional returns, Behavioral Finance, and the application of machine learning in financial analysis. My interests also extend to **Quantitative Investment**📈 in industry.
 
