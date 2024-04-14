@@ -38,18 +38,17 @@ It is noteworthy to mention that I am currently taking a **Gap Year**. Specifica
 
 
 
-
-
-
-<!--
-😄我正在进行 使用算法挖掘选股因子 的工作，欢迎与我讨论 ！
--->
-
 😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
 
 😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在Github主页的pinned区域，请自取！（后续会写一份论文的Template，敬请期待）
 
 
+<div align="center">
+  <figure>
+    <img src="https://i.postimg.cc/7LKwZcgb/20240414195424.jpg" alt="可能由于网络问题没显示出来" title="摄于湖南大学财院校区图书馆天台">
+    <figcaption>摄于湖南大学财院校区图书馆天台</figcaption>
+  </figure>
+</div>
 <!--
 📫Email: qgh124430@hnu.edu.cn
 
