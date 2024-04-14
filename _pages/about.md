@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-style:
+style: 
   font-family: 'Comic Sans MS', monospace;
 ---
 
