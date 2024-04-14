@@ -17,13 +17,13 @@ redirect_from:
 ![decription](https://img.shields.io/badge/Language-SAS-white)
 
 
-I'm Guohao Qi, an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). I'm interested in both Fintech(including Cryptocurrency market) and Empirical Asset Pricing in academia📋, including stock anomalies and cross-sectional returns, Behavioral Finance, and the application of machine learning in financial analysis. My interests also extend to quantitative investment📈 in industry.
+I'm Guohao Qi, an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). I'm interested in both **Fintech**(including Cryptocurrency market) and **Empirical Asset Pricing** in academia📋, including stock anomalies and cross-sectional returns, Behavioral Finance, and the application of machine learning in financial analysis. My interests also extend to **Quantitative Investment**📈 in industry.
 
 🔭I’m currently working on Daily-frequency strategy Research, Stock Factor Mining, Portfolio Optimization. 💬 You can ask me about Fund Analysis, FoF Research, Risk Management(Barra, etc.), Algorithmic Factor Mining and other related things. Additionally, 🤔 I’m currently learning Machine Learning and Deep Learning, Reinforcement Learning, High-Frequency trading.
 
 By the way, I enjoy photography, playing soccer and hiking. 
 
-It is noteworthy to mention that I am currently taking a Gap Year. Specifically, during my senior year (the 2023-2024 academic year, during which I am now on a sabbatical), I have opted to take a break from my studies. In pursuit of a deeper exploration of my interests, I have ventured to Beijing to work as a quantitative researcher at a private equity fund for six months (thus far).
+It is noteworthy to mention that I am currently taking a **Gap Year**. Specifically, during my senior year (the 2023-2024 academic year, during which I am now on a sabbatical), I have opted to take a break from my studies. In pursuit of a deeper exploration of my interests, I have ventured to Beijing to work as a quantitative researcher at a private equity fund for six months (thus far).
 
 
 
