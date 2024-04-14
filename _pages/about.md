@@ -46,7 +46,7 @@ It is noteworthy to mention that I am currently taking a **Gap Year**. Specifica
 <div align="center">
   <figure>
     <img src="https://i.postimg.cc/7LKwZcgb/20240414195424.jpg" alt="可能由于网络问题没显示出来" title="摄于湖南大学财院校区图书馆天台">
-    <figcaption>摄于湖南大学财院校区图书馆天台</figcaption>
+    <figcaption>摄于湖南大学财院校区图书馆天台(Photo taken at the rooftop of the library, Finance Campus, Hunan University)</figcaption>
   </figure>
 </div>
 <!--
