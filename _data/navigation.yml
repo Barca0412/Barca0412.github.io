@@ -5,12 +5,6 @@ main:
 
   - title: "Essays"
     url: /talks/    
-
-  - #title: "Teaching"
-    #url: /teaching/    
-
-  - #title: "Portfolio"
-    #url: /portfolio/
         
   - title: "Photos"
     url: /year-archive/
