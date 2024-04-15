@@ -19,7 +19,7 @@ redirect_from:
 
 I'm Guohao Qi (齐国皓), an undergraduate majoring in Economic Statistics at College of Finance and Statistics, Hunan University (graduating in 2025, 25fall-US). 
 
-I'm interested in both **Fintech** (including Cryptocurrency market) and **Empirical Asset Pricing** (including stock anomalies and cross-sectional returns, Behavioral Finance, and the application of machine learning in financial analysis) in academia📋. My interests also extend to **Quantitative Investment**📈 in industry.
+I'm interested in both **Fintech** and **Empirical Asset Pricing** (including stock anomalies and cross-sectional returns, Behavioral Finance, and the application of machine learning in financial analysis) in academia📋. My interests also extend to **Quantitative Investment**📈 in industry.
 
 🔭I’m currently working on Daily-frequency strategy Research, Stock Factor Mining, Portfolio Optimization. 💬 You can ask me about Fund Analysis, FoF Research, Risk Management(Barra, etc.), Algorithmic Factor Mining and other related things. Additionally, 🤔 I’m currently learning Machine Learning and Deep Learning, Reinforcement Learning, High-Frequency trading.
 
