@@ -45,7 +45,10 @@ It is noteworthy to mention that I am currently taking a **Gap Year** to explore
 
 😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在Github主页的pinned区域，请自取！（后续会写一份论文的Template，敬请期待）
 
+
+<!--
 <a href='https://clustrmaps.com/site/1bz9q'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=100404&w=a&t=tt&d=iEUrYgysT5QCpm8IlbCWkPQCDw-NajWvqSM-xT4pc6A&co=ffffff&ct=000000'/></a>
+-->
 
 <a href='https://clustrmaps.com/site/1bz9q'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=600&t=tt&d=iEUrYgysT5QCpm8IlbCWkPQCDw-NajWvqSM-xT4pc6A&co=ffffff&ct=808080'/></a>
 
