@@ -28,7 +28,7 @@ By the way, I enjoy photography, playing soccer and hiking.
 It is noteworthy to mention that I am currently taking a **Gap Year** to explore life experiences and interests. This academic year, I've interned as a **quantitative researcher** at a private equity fund in Beijing, gaining practical skills alongside my studies (until July 10th). After that, I am looking forward to engaging in a **summer research** project (currently still seeking opportunities!)
 
 
-😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
+😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎star, 感兴趣的朋友可以联系我一同build ~
 
 😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在Github主页的pinned区域，请自取！（后续会写一份论文的Template，敬请期待）
 
