@@ -27,6 +27,20 @@ By the way, I enjoy photography, playing soccer and hiking.
 
 It is noteworthy to mention that I am currently taking a **Gap Year** to explore life experiences and interests. This academic year, I've interned as a **quantitative researcher** at a private equity fund in Beijing, gaining practical skills alongside my studies (until July 10th). After that, I am looking forward to engaging in a **summer research** project (currently still seeking opportunities!)
 
+
+😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
+
+😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在Github主页的pinned区域，请自取！（后续会写一份论文的Template，敬请期待）
+
+------
+
+Feel free to explore the different sections of my website:
+- [**Projects**](https://barca0412.github.io/publications/): This section lists some of the projects I have worked on (updating).
+- [**Essays**](https://barca0412.github.io/talks/): Some of my notes and thoughts are in this section, welcome to read~
+- [**Experience**](https://barca0412.github.io/cv/): This section lists my personal experiences (incomplete version, updating).
+- [**Photos**](): This section will be added in the future, featuring some photos that I find beautiful (taken in Daqing, Changsha, and Beijing .etc), as I love to document my life.
+- [**Contact**](https://barca0412.github.io/markdown/): Here are my contact details.
+
 <!--
 . Specifically, during my senior year (the 2023-2024 academic year, during which I am now on a sabbatical), I have opted to take a break from my studies. In pursuit of a deeper exploration of my interests, I have ventured to Beijing to work as a quantitative researcher at a private equity fund for six months (thus far).
 -->
@@ -40,10 +54,6 @@ It is noteworthy to mention that I am currently taking a **Gap Year** to explore
 -->
 
 
-
-😄我正在撰写一份详细的[量化研究入门](https://github.com/Barca0412/Introduction-to-Quantitative-Finance)roadmap，欢迎感兴趣的朋友一同build ~
-
-😊湖南大学的[cover letter模板](https://github.com/Barca0412/Cover-letter-of-Hunan-University)在Github主页的pinned区域，请自取！（后续会写一份论文的Template，敬请期待）
 
 
 <!--
